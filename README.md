@@ -120,5 +120,5 @@ All state is stored and persisted across page reloads in the browser's `localSto
 
 ## 👩‍💻 Author
 
-**Khadija Barki**  
-*Web Development Intern at SoftGrowTech*
+ **Khadija Barki** 
+ *Web Development Intern at SoftGrowTech*
